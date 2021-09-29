@@ -1,6 +1,6 @@
 # MOVIE APP
 Live Link:-
-<img src=""/>
+<img src="https://github.com/shubhamy17/Moviecaard/blob/main/Gif.gif"/>
 <a href="https://moviecard-shubham.netlify.app/">Visit website</a>
 
 ## HOW TO RUN CODE
