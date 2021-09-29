@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.data{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+.moviecard{
+  height: 100%;
+  width: 433px;
+  padding: 2rem 20px;
+}
+.moviecard img{
+  width: 100%;
+  height: 200px;
+
+}
+.moviecard p{
+  padding-top:20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+h2{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+
+}
+.header{
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  color:black;
+  top:0px
+  
+}
+
+span{
+  color: red;
+}
+.rate{
+  display: flex;
+  list-style: none;
+}
