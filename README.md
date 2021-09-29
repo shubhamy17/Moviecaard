@@ -1,5 +1,6 @@
 # MOVIE APP
-Live Link:-<a herf="https://moviecard-shubham.netlify.app/">open</a>
+Live Link:-
+<a href="https://moviecard-shubham.netlify.app/">Visit website</a>
 
 ## HOW TO RUN CODE
   1)install node.
